@@ -1,0 +1,2 @@
+# mugi-entries
+むぎのエントリー
